@@ -10,3 +10,4 @@ akademik: -perbaiki nilai dipelajaran yang masih lemah
 -latihan public sepeaking (biar pd)
 4.kesehatan
 -tidur yang cukup jangan sering begadang 
+-kurangi main hp berlebihan
