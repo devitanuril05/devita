@@ -2,6 +2,7 @@
 
 1.Target Utama:
 -lulus sekolah dengan nilai yang baik
+  *belajar 1-2 jam*
 2.Rencana Per Bidang
 akademik: -perbaiki nilai dipelajaran yang masih lemah
 3.Pengembangan Diri 
