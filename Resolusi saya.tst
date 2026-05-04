@@ -9,3 +9,4 @@ akademik: -perbaiki nilai dipelajaran yang masih lemah
 3.Pengembangan Diri 
 -latihan public sepeaking (biar pd)
 -tidur yang cukup jangan sering begadang 
+-kurangi main hp berlebihan
